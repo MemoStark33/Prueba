@@ -13,4 +13,4 @@ INSERT INTO `lines2`(name, color) VALUES
 ("Línea 9", "Cafe"),
 ("Línea A", "Morado"),
 ("Línea B", "Verde y gris"),
-("Línea C", "Oro");
+("Línea 12", "Oro");
